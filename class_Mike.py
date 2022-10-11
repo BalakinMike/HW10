@@ -1,5 +1,6 @@
 class Mike:
-    def __init__(self) -> None:
-        pass
+    def __init__(self):
+        name = Mike
 
-    def 
+    def __mike__(to, do):
+        ...
